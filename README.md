@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<h2> Fun Fact <img src='https://media.giphy.com/media/l41JNmCl05yXoWbPG/giphy.gif' height="32px"> </h2>
+<h2> Fun Fact <img src='https://media.giphy.com/media/l41JNmCl05yXoWbPG/giphy.gif' height="38px"> </h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
