@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## About Me
-----
 <center><img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></center>
 
 <br>
@@ -36,8 +35,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<hr>
-
 <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=csharp&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=python&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=c&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -51,8 +48,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<hr>
-
 <a href = 'https://www.linkedin.com/in/dasheewd'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/dharmathunga'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://medium.com/@dasheewd'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
@@ -65,7 +60,12 @@ You can click the Preview link to take a look at your changes.
 
 | [![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Naveenz&theme=radical)](https://github.com/D-Naveenz) | ![Naveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz&theme=radical) |
 | --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Naveenz&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ||
+
+<dic style="text-align: center;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Naveenz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br>
 
