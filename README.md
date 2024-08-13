@@ -29,7 +29,7 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 ### My Status
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=D-Naveenz" height="150px" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=D-Naveenz" height="150px" alt="GitHub Status" />&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=D-Naveenz" height="150px" alt="GitHub Streak" /></a>
 </p>
 
 <br>
@@ -58,7 +58,7 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 <!-- ![Top Langs](https://githubstatus.azurewebsites.net/api/top-langs?username=D-Naveenz&theme=radical) -->
 
-![Naveen's WakaTime stats](https://githubstatus.azurewebsites.net/api/wakatime?username=XerDuke)
+![Naveen's WakaTime stats](https://githubstatus.azurewebsites.net/api/wakatime?username=XerDuke&layout=compact)
 
 </div>
 
