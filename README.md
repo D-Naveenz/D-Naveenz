@@ -31,8 +31,8 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml" width="100%" height="100%">
       <div style="display: flex; justify-content: space-between;">
-        <img src="https://githubstatus.azurewebsites.net/api/card?username=D-Naveenz&theme=radical" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz&theme=radical" />
+        <img src="https://githubstatus.azurewebsites.net/api/card?username=D-Naveenz" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz" />
       </div>
     </div>
   </foreignObject>
@@ -70,7 +70,7 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 <!-- ![Top Langs](https://githubstatus.azurewebsites.net/api/top-langs?username=D-Naveenz&theme=radical) -->
 
-![Naveen's WakaTime stats](https://githubstatus.azurewebsites.net/api/wakatime?username=XerDuke&theme=radical)
+![Naveen's WakaTime stats](https://githubstatus.azurewebsites.net/api/wakatime?username=XerDuke)
 
 </div>
 
