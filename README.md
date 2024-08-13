@@ -27,12 +27,12 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 <br>
 
 
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="auto" height="180px" fill="none" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" width="100%" height="100%">
-      <div style="display: flex; justify-content: space-between;">
-        <img src="https://githubstatus.azurewebsites.net/api/card?username=D-Naveenz" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz" />
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div style="display: flex; justify-content: space-between; gap: 10px;">
+        <img src="https://githubstatus.azurewebsites.net/api/card?username=D-Naveenz" height="180px" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz" height="180px" />
       </div>
     </div>
   </foreignObject>
@@ -45,6 +45,8 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 ![Naveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz&theme=radical)
 
 </div> -->
+
+<br>
 
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px" style="position: relative; top: 6px;" />
@@ -74,7 +76,6 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 </div>
 
-<br>
 <br>
 
 ## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="32px" style="position: relative; top: 7px;">
