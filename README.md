@@ -8,6 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :smile:
 
+<div style="text-align: center;">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+</div>
 
 ## About Me <img src = "https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" height = 32px style="position: relative; top: -4px; left: -10px;">
 <br>
@@ -22,16 +27,23 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 <br>
 
 
+<div style="display: flex; justify-content: space-between;">
+
+![Naveen's GitHub stats](https://githubstatus.azurewebsites.net/api/card?username=D-Naveenz&theme=radical)
+
+![Naveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz&theme=radical)
+
+</div>
+
+<br>
+
+
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px" style="position: relative; top: 6px;">
 
 ### Languages
 
 <p>
-    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=csharp&sort="><img src="./Images/c-sharp.png" height="64px"></a>
-    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=python&sort="><img src="./Images/python.png" height="64px"></a>
-    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=cpp&sort="><img src="./Images/c-.png" height="64px"></a>
-    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=javascript&sort="><img src="./Images/js.png" height="64px"></a>
-    <img src="./Images/sql-server.png" height="64px">
+<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=csharp&sort="><img src="./Images/c-sharp.png" height="64px"></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=python&sort="><img src="./Images/python.png" height="64px"></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=cpp&sort="><img src="./Images/c-.png" height="64px"></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=javascript&sort="><img src="./Images/js.png" height="64px"></a> &nbsp;&nbsp;&nbsp; <img src="./Images/sql-server.png" height="64px">
 </p>
 
 ### Frameworks
@@ -44,32 +56,21 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 <br>
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="32px" style="position: relative; top: 7px;">
-
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Medium][medium-shield]][medium-url] [![X][x-shield]][x-url]
-  
-<br>
-<br>
-<br>
-
-
-| [![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Naveenz&theme=radical)](https://github.com/D-Naveenz) | ![Naveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz&theme=radical) |
-| --- | --- |
 
 <div style="text-align: center;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Naveenz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://githubstatus.azurewebsites.net/api/top-langs?username=D-Naveenz&theme=radical) -->
+
+![Naveen's WakaTime stats](https://githubstatus.azurewebsites.net/api/wakatime?username=XerDuke&theme=radical)
 
 </div>
 
 <br>
-
-
-## Fun Fact <img src='https://media.giphy.com/media/l41JNmCl05yXoWbPG/giphy.gif' height="38px">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
 <br>
+
+## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="32px" style="position: relative; top: 7px;">
+
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Medium][medium-shield]][medium-url] [![X][x-shield]][x-url]
 
 
 -----
