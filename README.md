@@ -4,14 +4,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello Fellow `<Developers />` !
 
 Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :smile:
 
 <br>
 
 
-## About Me <img src = "https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" height = 32px style="tansform: translateY(5px)">
+## About Me <img src = "https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" height = 32px>
 <br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -24,7 +24,7 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 <br>
 
 
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 32px style="tansform: translateY(5px)">
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px" style="position: relative; top: 6px;">
 
 <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=csharp&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=python&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -37,7 +37,7 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 <br>
 
-## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="32px">
+## Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="32px" style="position: relative; top: 7px;">
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Medium][medium-shield]][medium-url] [![X][x-shield]][x-url]
   
