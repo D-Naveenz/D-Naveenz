@@ -26,25 +26,11 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 <br>
 
+### My Status
 
-<svg width="auto" height="180px" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <div style="display: flex; justify-content: space-between; gap: 10px;">
-        <img src="https://githubstatus.azurewebsites.net/api/card?username=D-Naveenz" height="180px" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz" height="180px" />
-      </div>
-    </div>
-  </foreignObject>
-</svg>
-
-<!-- <div style="display: flex; justify-content: space-between;">
-
-![Naveen's GitHub stats](https://githubstatus.azurewebsites.net/api/card?username=D-Naveenz&theme=radical)
-
-![Naveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz&theme=radical)
-
-</div> -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=D-Naveenz" height="150px" />&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-Naveenz" height="150px" />
+</p>
 
 <br>
 
