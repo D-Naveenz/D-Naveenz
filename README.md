@@ -8,32 +8,39 @@ You can click the Preview link to take a look at your changes.
 
 Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :smile:
 
-<br>
 
-
-## About Me <img src = "https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" height = 32px>
+## About Me <img src = "https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" height = 32px style="position: relative; top: -4px; left: -10px;">
 <br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 &nbsp;I’m currently a student of the UCSC
-- 🌱 &nbsp;I’m currently learning .Net, Unity, and Unreal
+- 🔭 &nbsp;I’m a software engineer and undergraduate at UCSC
+- 🌱 &nbsp;I’m currently learning data engineering and cloud tecnolofies
 - 👯 &nbsp;I’m looking to collaborate on Game Development and Modding projects
-- 💬 &nbsp;Ask me about Sql, C#, JavaScript, and Unity
+- 💬 &nbsp;Ask me about C#, Python, SQL, JavaScript, and Unity
 
 <br>
 
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px" style="position: relative; top: 6px;">
 
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=csharp&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=python&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=c&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=cpp&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=sqlite&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=html&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=javascript&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=css&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+### Languages
+
+<p>
+    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=csharp&sort="><img src="./Images/c-sharp.png" height="64px"></a>
+    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=python&sort="><img src="./Images/python.png" height="64px"></a>
+    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=cpp&sort="><img src="./Images/c-.png" height="64px"></a>
+    <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=javascript&sort="><img src="./Images/js.png" height="64px"></a>
+    <img src="./Images/sql-server.png" height="64px">
+</p>
+
+### Frameworks
+
+![DotNet][dotnet-sheild] ![Unity][unity-sheild] ![Spark][spark-sheild] ![Pandas][pandas-sheild] ![Vue.js][vuejs-sheild] ![Unreal][unreal-sheild]
+
+### Databases
+
+![PostgreSQL][postgresql-sheild] ![MySQL][mysql-shield]
 
 <br>
 
@@ -71,7 +78,7 @@ Last Edited on: 08/13/2024
 
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- References - Sats -->
+<!-- References - Status -->
 [visitors-shield]: https://komarev.com/ghpvc/?username=D-Naveenz&style=for-the-badge
 [visitors-url]: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FD-Naveenz
 [follow-sheild]: https://img.shields.io/github/followers/D-Naveenz?label=Follow&style=social
@@ -84,3 +91,15 @@ Last Edited on: 08/13/2024
 [medium-url]: https://medium.com/@dasheewd
 [x-shield]: https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white
 [x-url]: https://x.com/dharmathunga
+
+<!-- References - Frameworks -->
+[dotnet-sheild]: https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[unity-sheild]: https://img.shields.io/badge/Unity-%23E9ECEF?style=for-the-badge&logo=unity&logoColor=black
+[spark-sheild]: https://img.shields.io/badge/Apache_Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
+[pandas-sheild]: https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white
+[vuejs-sheild]: https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white
+[unreal-sheild]: https://img.shields.io/badge/Unreal-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white
+
+<!-- References - Databases -->
+[postgresql-sheild]: https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white
+[mysql-shield]: https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white
