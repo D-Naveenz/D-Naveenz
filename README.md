@@ -20,7 +20,7 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 &nbsp;I’m a software engineer and undergraduate at UCSC
-- 🌱 &nbsp;I’m currently learning data engineering and cloud tecnolofies
+- 🌱 &nbsp;I’m currently learning data engineering and cloud technologies
 - 👯 &nbsp;I’m looking to collaborate on Game Development and Modding projects
 - 💬 &nbsp;Ask me about C#, Python, SQL, JavaScript, and Unity
 
