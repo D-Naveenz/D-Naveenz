@@ -8,21 +8,23 @@ D-Naveenz/D-Naveenz is a special repository because this README appears on the G
 
 <br>
 
-<img align="right" src="./Images/avatar-portrait.png" alt="Illustrated portrait of Naveen Dharmathunga" width="220" />
-
-<h1>Naveen Dharmathunga</h1>
-
-<p><strong>Associate Software Engineer</strong> building production systems, developer tools, and AI-assisted workflows.</p>
-
-<p>I work across .NET, Next.js, Rust, TypeScript, and Python, with recent focus on PMS, HRMS, CMMS, resource-monitoring systems, storage/tooling projects, and practical AI memory workflows.</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/dasheewd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@dasheewd"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://x.com/dharmathunga"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
-<br clear="right" />
+<table>
+  <tr>
+    <td width="70%" valign="middle">
+      <h1>Naveen Dharmathunga</h1>
+      <p><strong>Associate Software Engineer</strong> building production systems, developer tools, and AI-assisted workflows.</p>
+      <p>I work across .NET, Next.js, Rust, TypeScript, and Python, with recent focus on PMS, HRMS, CMMS, resource-monitoring systems, storage/tooling projects, and practical AI memory workflows.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/dasheewd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://medium.com/@dasheewd"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+        <a href="https://x.com/dharmathunga"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+      </p>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <img src="./Images/avatar-portrait.png" alt="Illustrated portrait of Naveen Dharmathunga" width="220" />
+    </td>
+  </tr>
+</table>
 
 ---
 
