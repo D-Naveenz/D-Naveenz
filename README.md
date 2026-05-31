@@ -3,7 +3,6 @@ D-Naveenz/D-Naveenz is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello Fellow `<Developers />` !
 
 Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :smile:
@@ -15,6 +14,7 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 </div>
 
 ## About Me <img src = "https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" height = 32px style="position: relative; top: -4px; left: -10px;">
+
 <br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -29,11 +29,14 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 ### My Status
 
 <p align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api?username=D-Naveenz" height="150px" alt="GitHub Status" />&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=D-Naveenz" height="150px" alt="GitHub Streak" /></a>
+
 </p>
 
 <br>
-
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="32px" style="position: relative; top: 6px;" />
 
@@ -53,7 +56,6 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 <br>
 
-
 <div align="center">
 
 <!-- ![Top Langs](https://githubstatus.azurewebsites.net/api/top-langs?username=D-Naveenz&theme=radical) -->
@@ -68,20 +70,20 @@ Hi! My name is Naveen. Thank You for taking the time to view my GitHub Profile :
 
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Medium][medium-shield]][medium-url] [![X][x-shield]][x-url]
 
+---
 
------
 Last Edited on: 08/13/2024
-
-
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- References - Status -->
+
 [visitors-shield]: https://komarev.com/ghpvc/?username=D-Naveenz&style=for-the-badge
 [visitors-url]: https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FD-Naveenz
 [follow-sheild]: https://img.shields.io/github/followers/D-Naveenz?label=Follow&style=social
 [follow-url]: #
 
 <!-- References - Social Media -->
+
 [linkedin-shield]: https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/dasheewd/
 [medium-shield]: https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white
@@ -90,6 +92,7 @@ Last Edited on: 08/13/2024
 [x-url]: https://x.com/dharmathunga
 
 <!-- References - Frameworks -->
+
 [dotnet-sheild]: https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [unity-sheild]: https://img.shields.io/badge/Unity-%23E9ECEF?style=for-the-badge&logo=unity&logoColor=black
 [spark-sheild]: https://img.shields.io/badge/Apache_Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white
@@ -98,5 +101,6 @@ Last Edited on: 08/13/2024
 [unreal-sheild]: https://img.shields.io/badge/Unreal-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white
 
 <!-- References - Databases -->
+
 [postgresql-sheild]: https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white
 [mysql-shield]: https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white
