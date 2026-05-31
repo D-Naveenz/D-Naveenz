@@ -39,12 +39,19 @@ D-Naveenz/D-Naveenz is a special repository because this README appears on the G
 
 ### Languages
 
-![C#][csharp-shield]
-![Rust][rust-shield]
-![Python][python-shield]
-![TypeScript][typescript-shield]
-![JavaScript][javascript-shield]
-![Lua][lua-shield]
+<p>
+  <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=csharp&sort="><img src="./Images/c-sharp.png" alt="C#" width="56" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=rust&sort="><img src="./Images/rust.svg" alt="Rust" width="56" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=python&sort="><img src="./Images/python.png" alt="Python" width="56" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=typescript&sort="><img src="./Images/typescript.png" alt="TypeScript" width="56" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=javascript&sort="><img src="./Images/js.png" alt="JavaScript" width="56" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/D-Naveenz?tab=repositories&q=&type=&language=lua&sort="><img src="./Images/lua.svg" alt="Lua" width="56" /></a>
+</p>
 
 ### Frameworks & Platforms
 
@@ -127,12 +134,6 @@ D-Naveenz/D-Naveenz is a special repository because this README appears on the G
 
 <!-- Skill badges -->
 
-[csharp-shield]: https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-[rust-shield]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
-[python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[typescript-shield]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-[javascript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[lua-shield]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
 [dotnet-shield]: https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [aspnet-shield]: https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [nextjs-shield]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
@@ -140,17 +141,17 @@ D-Naveenz/D-Naveenz is a special repository because this README appears on the G
 [razor-shield]: https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [winui-shield]: https://img.shields.io/badge/WinUI_3-0078D4?style=for-the-badge&logo=windows&logoColor=white
 [ef-shield]: https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-[sqlserver-shield]: https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
-[sqlite-shield]: https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white
-[protobuf-shield]: https://img.shields.io/badge/Protobuf-336791?style=for-the-badge
+[sqlserver-shield]: https://custom-icon-badges.demolab.com/badge/SQL_Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white
+[sqlite-shield]: https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white
+[protobuf-shield]: https://img.shields.io/badge/Protobuf-336791?style=for-the-badge&logo=protocolbuffers&logoColor=white
 [messagepack-shield]: https://img.shields.io/badge/MessagePack-111827?style=for-the-badge
 [modbus-shield]: https://img.shields.io/badge/Modbus-0F766E?style=for-the-badge
 [bacnet-shield]: https://img.shields.io/badge/BACnet-1F6FEB?style=for-the-badge
-[codex-shield]: https://img.shields.io/badge/OpenAI_Codex-111111?style=for-the-badge&logo=openai&logoColor=white
-[obsidian-shield]: https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white
-[github-actions-shield]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
-[docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-[azure-devops-shield]: https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white
+[codex-shield]: https://custom-icon-badges.demolab.com/badge/OpenAI_Codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+[obsidian-shield]: https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white
+[github-actions-shield]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+[docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff
+[azure-devops-shield]: https://custom-icon-badges.demolab.com/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops-white&logoColor=fff
 
 <!-- Compact project badges -->
 
@@ -160,5 +161,5 @@ D-Naveenz/D-Naveenz is a special repository because this README appears on the G
 [typescript-flat-shield]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
 [vercel-shield]: https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white
 [svg-shield]: https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black
-[obsidian-flat-shield]: https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white
-[mcp-shield]: https://img.shields.io/badge/MCP-111827?style=flat-square
+[obsidian-flat-shield]: https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white
+[mcp-shield]: https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white
